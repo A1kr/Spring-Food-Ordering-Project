@@ -11,7 +11,7 @@ Create a database **foodorder** <br/>
 `CREATE DATABASE foodorder;`
 
 ## Usage
-This application has bot user side and admin side. On user side we can order the food and on admin side the order will be processed.
+> This application has bot user side and admin side. On user side we can order the food and on admin side the order will be processed.
 
 Url for admin login <br/>
 `/admin/login`
