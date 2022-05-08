@@ -1,12 +1,11 @@
 ﻿# Spring-Food-Ordering-Management
 > This application is a simple food ordering application.
 
-**Presentation link** - [Click Here]()
+**Presentation link** - [Click Here](https://github.com/A1kr/Spring-Food-Ordering-Project/files/8646989/Food.Ordering.Management.System.pptx)
 
-**Video link** - [Click Here](https://drive.google.com/file/d/1NGF-b4Qye7OzHeLSgklw9FAPuyueMHcU/view?usp=sharing)
+**Video link** - [Click Here](https://drive.google.com/file/d/1iRMuseOE_Rs0WyR0NKmxEAnL3E6rQ3ti/view?usp=sharing)
 
 ## Installation
-
 Create a database **foodorder** <br/>
 `CREATE DATABASE foodorder;`
 
